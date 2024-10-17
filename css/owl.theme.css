@@ -2,31 +2,6 @@
 * 	Owl Carousel Owl Demo Theme 
 *	v1.3.3
 */
-.text-image-container {
-    display: flex;
-    align-items: center;
-    margin-bottom: 30px;
-}
-
-.text-image-container img {
-    max-width: 300px; /* Ajusta el tamaño de la imagen */
-    margin: 0 20px;
-}
-
-.right-image {
-    order: 2;
-    float: right;
-}
-
-.left-image {
-    order: 1;
-    float: left;
-}
-
-.content-block p {
-    flex: 1;
-    text-align: justify;
-}
 
 .owl-theme .owl-controls{
 	margin-top: 16px;
